@@ -27,7 +27,7 @@ Airflow • Spark • Cloud Platforms (GCP & Azure)
 
 ## 📫 Get in Touch
 - 📧 Email: **morgkor21@gmail.com**  
-- 
+  
 
 ---
 
